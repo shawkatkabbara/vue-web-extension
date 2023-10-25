@@ -1,9 +1,9 @@
 {
-  "name": "vue-web-extension",
-  "version": "2.0.0",
-  "description": "A Vue CLI preset for quickly starting a web extension with webpack, Vue and more!",
-  "repository": "https://github.com/Kocal/vue-web-extension.git",
-  "author": "Hugo Alliaume <kocal@live.fr>",
+  "name": "papr-chrome-extension",
+  "version": "1.0.0",
+  "description": "Papr Chrome Extension",
+  "repository": "https://github.com/shawkatkabbara/papr-chrome-extension.git",
+  "author": "Shawkat Kabbara",
   "license": "MIT",
   "scripts": {
     "release": "standard-version"
